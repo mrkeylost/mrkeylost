@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **MVC Software**
 
-- 🌱 I’m currently learning **Node.js and Design Pattern**
+- 🌱 I’m currently learning **MERN tech stack and Design Pattern**
 
 - 📫 How to reach me **nikolaus.chandra@binus.ac.id**
 
