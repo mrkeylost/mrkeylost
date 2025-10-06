@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrkeylost&label=Profile%20views&color=0e75b6&style=flat" alt="mrkeylost" /> </p>
 
-- 🔭 I’m currently working on **MVC Software**
+- 🔭 I’m currently working on **DSA and Backend Development**
 
-- 🌱 I’m currently learning **MERN tech stack and Design Pattern**
+- 🌱 I’m currently learning **React Framework and Go Lang**
 
 - 📫 How to reach me **nikolaus.chandra@binus.ac.id**
 
