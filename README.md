@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **DSA and Backend Development**
 
-- 🌱 I’m currently learning **React Framework and Go Lang**
+- 🌱 I’m currently learning **MERN stack and Go Lang**
 
 - 📫 How to reach me **nikolaus.chandra@binus.ac.id**
 
