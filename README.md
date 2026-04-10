@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrkeylost&label=Profile%20views&color=0e75b6&style=flat" alt="mrkeylost" /> </p>
 
-- 🔭 I’m currently working on **DSA and Backend Development**
+- 🔭 I’m currently working on **DSA and Fullstack Development**
 
 - 🌱 I’m currently learning **MERN stack and Go Lang**
 
-- 📫 How to reach me **nikolaus.chandra@binus.ac.id**
+- 📫 How to reach me **nikosam08@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
