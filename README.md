@@ -10,7 +10,7 @@ Currently working on the <strong>Full stack development</strong> and <strong>Lee
 | | |
 |---|---|
 | 🔭 Working on | DSA and Fullstack Development |
-| 🌱 Learning | MERN Stack |
+| 🌱 Learning | Go, React, Postgres |
 | 🤝 Open to | Collaborations & Offer |
 | 📍 Based in | Indonesia |
 
