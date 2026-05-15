@@ -22,7 +22,7 @@ Currently working on the <strong>Full stack development</strong> and <strong>Lee
 `JavaScript` `TypeScript` `Python` `Java` `C / C++` `C#` `Go`
 
 **Frontend**
-`HTML & CSS` `Bootstrap 5` `Tailwind` `React` `Remix v2` `Vue` `Nuxt 3` `Figma`
+`HTML & CSS` `Bootstrap 5` `Tailwind` `React` `Remix` `Vue.js` `Nuxt` `Next.js` `Figma`
 
 **Backend & Database**
 `Node.js` `Express` `MongoDB` `ASP.NET` `MySQL` `MSSQL` `Firebase`
