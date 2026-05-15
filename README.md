@@ -35,11 +35,9 @@ Currently working on the <strong>Full stack development</strong> and <strong>Lee
 ### GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=mrkeylost&show_icons=true&theme=default" />
-  <br/>
+  <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrkeylost" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrkeylost&layout=compact" />
 </p>
 
 ---
